@@ -2,7 +2,7 @@
 Eternal Return Private External Bot - Combat Script Cheat
 
 [![Discord](https://img.shields.io/discord/972965077496000552)](https://discord.gg/3TCudXY2uA)
-![Version](https://img.shields.io/badge/version-5.0-blue.svg)
+![Version](https://img.shields.io/badge/version-5.2-blue.svg)
 
 ## Features:
 
